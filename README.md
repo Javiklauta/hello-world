@@ -1,2 +1,4 @@
 # hello-world
-This is the first of many repositories to come. 
+Hi,
+
+My name is Javier and I am in the process of learning data science. Cheers!
